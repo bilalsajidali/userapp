@@ -1,0 +1,31 @@
+#date 04-06-2024
+basic knowledge of NESTJS
+What is NESTJS and why we should use it?
+work flow of NESTJS
+How to use it?
+
+#date 05-06-2024
+Structure of nest js
+basic commands 
+CRUD functionality 
+overview of inforemover project
+
+#date 06-06-2024
+CRUD implementation
+MONGODB implementation
+Authentication and Authorization
+JWT token with secret
+how to store secret and jwt expire values in .env and how to use it through pathway.
+Implementation of auth with Mongodb using jwt token+ jwt security (secretkey)
+Following Structured approach NESTJS
+/signup api
+/login api
+
+
+#date 07-06-2024
+make users app (reactjs+nestjs) (F)
+nestjs login and signup api : frontend design 
+getUsers() api : populate All users fields in frontend
+jwt token security : jwt token verification : jwt token fetching and decoding : userid
+storing token : browser local storage : removing on logout:success
+middleware : stop unauthorised access
